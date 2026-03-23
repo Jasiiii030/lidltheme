@@ -2,13 +2,13 @@
   "name": "lidltheme",
   "displayName": "LidlTheme",
   "description": "Theme based on the Lidl Logo Colors",
-  "publisher": "your-publisher-name",
+  "publisher": "lidl-enjoyer",
   "repository": {
     "type": "git",
     "url": "https://github.com/yourusername/lidltheme.git"
   },
   "icon": "Lidl_logo.png",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "engines": {
     "vscode": "^1.110.0"
   },
