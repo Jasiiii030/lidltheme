@@ -5,6 +5,8 @@
 		"focusBorder": "#FFF200",
 		"foreground": "#E0E0E0",
 		"widget.shadow": "#00000080",
+		"textLink.foreground": "#FFF200",
+		"textLink.activeForeground": "#FFE600",
 		
 		"activityBar.background": "#FFF200",
 		"activityBar.foreground": "#0050AA",
@@ -294,7 +296,7 @@
 			"name": "Markdown Links",
 			"scope": "markup.underline.link",
 			"settings": {
-				"foreground": "#55AAFF",
+				"foreground": "#FFF200",
 				"fontStyle": "underline"
 			}
 		}
