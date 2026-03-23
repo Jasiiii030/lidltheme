@@ -1,7 +1,7 @@
 # LIDL Theme for VSCode
 
 Why pay for premium IDE themes when you have **LIDL QUALITY** at literally 0 cost?
-Boost your coding productivity by at least 400% with pure discount energy.
+Boost your productivity by at least 400% with pure discount energy.
 
 When using this Extension you will be granted a 10% Discount at your local [LIDL Store](https://lidl.com)
 
