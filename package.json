@@ -1,0 +1,21 @@
+{
+  "name": "lidltheme",
+  "displayName": "LidlTheme",
+  "description": "Theme based on the Lidl Logo Colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lidl",
+        "uiTheme": "vs",
+        "path": "./themes/Lidl-color-theme.json"
+      }
+    ]
+  }
+}
