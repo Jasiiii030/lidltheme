@@ -3,7 +3,7 @@
   "displayName": "LidlTheme",
   "description": "Theme based on the Lidl Logo Colors",
   "icon": "Lidl_logo.png",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "engines": {
     "vscode": "^1.110.0"
   },
