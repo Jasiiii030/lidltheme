@@ -43,8 +43,8 @@
 		"editorLineNumber.activeForeground": "#FFF200",
 		"editorWhitespace.foreground": "#1A365D",
 		
-		"editorIndentGuide.background": "#102A4A",
-		"editorIndentGuide.activeBackground": "#FFF20050",
+		"editorIndentGuide.background1": "#102A4A",
+		"editorIndentGuide.activeBackground1": "#FFF20050",
 		"editorGroupHeader.tabsBackground": "#001D40",
 		
 		"tab.activeBackground": "#0B1E36",
