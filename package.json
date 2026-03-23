@@ -3,7 +3,7 @@
   "displayName": "LidlTheme",
   "description": "Theme based on the Lidl Logo Colors",
   "icon": "Lidl_logo.png",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.110.0"
   },
@@ -13,9 +13,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Lidl",
+        "label": "Lidl Light",
         "uiTheme": "vs",
         "path": "./themes/Lidl-color-theme.json"
+      },
+      {
+        "label": "Lidl Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lidl-dark-color-theme.json"
       }
     ]
   }
