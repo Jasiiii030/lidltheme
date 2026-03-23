@@ -1,16 +1,24 @@
-# lidltheme README
+# LIDL Theme for VSCode
 
-## Working with Markdown
+Why pay for premium IDE themes when you have **LIDL QUALITY** at literally 0 cost?
+Boost your coding productivity by at least 400% with pure discount energy.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+When using this Extension you will be granted a 10% Discount at your local [LIDL Store](https://lidl.com)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Live Lidl Reaction](LiveLidlReaction.png)
 
-## For more information
+## The Variants
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- **Lidl Light**: Flashbang your eyes with the raw power of the bakery section at 7 AM.
+![Lidl Light](LidlLight.png)
+- **Lidl Dark**: For browsing the middle aisle at 3 AM looking for a cheap Kong Strong Energy Drink.
+![Lidl Dark](LidlDark.png)
 
-**Enjoy!**
+## THE TRUE EXPERIENCE (Lidl Man)
+
+Want to share your VSCode instance with the One LidlMan?
+
+1. Install the Background extension in Extensions Tab.
+2. It should auto apply. Now Lidl Man can live in your VSCode until the end of Time.
+
+![Lidl Man](LidlMan.jpg)
